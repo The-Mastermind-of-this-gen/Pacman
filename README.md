@@ -47,5 +47,4 @@ ENG. Mohamed Hazem
 ENG. Adham elKammar
 ENG. Ahmed Sallam
 
-## License
-[Specify license - to be filled manually]
+
