@@ -1,6 +1,6 @@
 # Pacman Clone - README
 
-![image](https://github.com/user-attachments/assets/e88c6f13-c1b1-4786-a64f-f80e3ba807c0)
+
 ![image](https://github.com/user-attachments/assets/2e91023d-7689-4eb9-bd97-19703b1b7057)
 ![Project Screenshot](./Project%202/Screenshot%202025-08-22%20184424.png)
 
